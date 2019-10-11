@@ -1,4 +1,4 @@
-<h1><b>Stalker / Ministra Middleware install script for Debian and Ubuntu Distros</b></h1>
+<h1><b>Stalker / Ministra 5.6.1 Middleware install script for Debian and Ubuntu Distros</b></h1>
 
 <h1><b>*Stalker is Disabled*</b></h1>
 
@@ -89,6 +89,7 @@ This is a free shell script under GNU GPL version 3.0 or above
 Author Ivan Bachvarov a.k.a SlaSerX
 
 Modified by Snake24564
+Modified by abidhamma
 
 <b>Copyright <b>©</b> 2017 LinuxHelps project.</b>
 <hr>
