@@ -57,7 +57,7 @@ smallLoader() {
 
 
 
-VER="5.6.0"
+VER="5.6.1"
 PRODUCT="Ministra Portal"
 WEB="http://`ip route get 8.8.8.8 | awk '{print $NF; exit}'`/stalker_portal"
 WAN="`wget -q -O - http://icanhazip.com/ | tail`"
@@ -217,7 +217,7 @@ echo ""
 echo -e "IP WAN       : ${CGREEN}${WAN}${CEND}"
 echo -e "Local IP     : ${CGREEN}${LOCAL}${CEND}"
 echo -e "MySQL Pass   : ${CGREEN}${pass}${CEND}"
-echo -e "WEB          : ${CGREEN}${WEB}${CEND}"
+echo -e "WEB          : ${CGREEN}${WAN}${CEND}"
 echo ""
 echo -e "${CCYAN}-----------------------------------------------------------------------${CEND}"
 echo ""
