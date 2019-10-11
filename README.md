@@ -21,7 +21,7 @@
 <p>
 
 ```sh
-git clone https://github.com/ProTechEx/ministra_v56_autoinstaller
+sudo apt-get install zip
 ```
 
 <p>
