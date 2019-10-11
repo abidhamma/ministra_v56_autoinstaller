@@ -25,6 +25,18 @@ sudo apt-get install zip
 ```
 
 <p>
+  
+```sh
+https://github.com/abidhamma/ministra_v56_autoinstaller/archive/master.zip
+```
+
+<p>
+  
+```sh
+sudo unzip master.zip
+```
+
+<p>
 
 ```sh
 cd ministra_v56_autoinstaller/
