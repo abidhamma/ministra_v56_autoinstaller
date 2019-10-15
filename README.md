@@ -1,4 +1,4 @@
-<h1><b>Stalker / Ministra 5.6.1 Middleware install script for Debian and Ubuntu Distros</b></h1>
+<h1><b>Ministra 5.6.1 Middleware install script for Debian and Ubuntu Distros</b></h1>
 
 <h1><b>*Stalker is Disabled*</b></h1>
 
