@@ -59,10 +59,19 @@ chmod +x install
 After its done and somehow your Ministra keeps showing error about npm.. then reinstall npm by using
 
 <p>
+
 ```sh
 sudo npm install -g npm@2.15.11
+```
+
+<p>
+
+<p>
+
+```sh
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
+
 <p>
 
 <hr>
