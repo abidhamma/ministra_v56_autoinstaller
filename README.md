@@ -56,6 +56,15 @@ chmod +x install
 
 <p>
 
+After its done and somehow your Ministra keeps showing error about npm.. then reinstall npm by using
+
+<p>
+```sh
+sudo npm install -g npm@2.15.11
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+```
+<p>
+
 <hr>
 <h3><b>IMPORTANT: During the install it will ask you to enter the MySQL Password which is "st@lk3r"</b></h3>
 <hr>
