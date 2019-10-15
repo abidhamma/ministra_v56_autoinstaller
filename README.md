@@ -27,7 +27,7 @@ sudo apt-get install zip
 <p>
   
 ```sh
-https://github.com/abidhamma/ministra_v56_autoinstaller/archive/master.zip
+sudo wget https://github.com/abidhamma/ministra_v56_autoinstaller/archive/master.zip
 ```
 
 <p>
