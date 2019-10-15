@@ -39,7 +39,7 @@ sudo unzip master.zip
 <p>
 
 ```sh
-cd ministra_v56_autoinstaller/
+cd ministra_v56_autoinstaller-master
 ```
 
 <p>
